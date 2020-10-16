@@ -2198,11 +2198,12 @@ input, select, textarea {
 			}
 
 			#banner header p {
-				color: #d52349;
+				color:white;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
 				font-size: 1.5em;
+				text-align: justify;
 			}
 
 /* Intro */
