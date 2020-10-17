@@ -1572,6 +1572,7 @@ input, select, textarea {
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
 		padding: 2.75em 1.75em 2.75em 1.75em;
+		text-align: justify;
 	}
 
 		.box .image.featured {
@@ -1585,11 +1586,13 @@ input, select, textarea {
 		.box.post header {
 			padding-top: 1em;
 			margin: 0 0 2em 0;
+			
 		}
 
 		.box.post h2 {
 			font-size: 2.5em;
 			letter-spacing: -0.015em;
+			
 		}
 
 		.box.post header > p {
